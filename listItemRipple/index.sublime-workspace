@@ -1,0 +1,244 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 56.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/michele/Desktop/udemy/bootstrap/bootstrap2Forms/index.html",
+		"/C/Users/michele/Desktop/udemy/bootstrap/bootstrap1/cours bootstrap",
+		"/C/Users/michele/Desktop/udemy/dossier jQuery/script.js",
+		"/C/Users/michele/Desktop/udemy/dossier jQuery/style.css",
+		"/C/Users/michele/Desktop/udemy/essaiExterneUdemy/onlinesTutoriel/listItemRipple/script.js",
+		"/C/Users/michele/Desktop/udemy/dossier jQuery/index.html",
+		"/C/Users/michele/Desktop/udemy/essaiExterneUdemy/onlinesTutoriel/responsive/index.html",
+		"/C/Users/michele/Desktop/udemy/essaiExterneUdemy/onlinesTutoriel/responsive/style.css",
+		"/C/Users/michele/Desktop/udemy/essaiExterneUdemy/onlinesTutoriel/buttonToggleCard/style.css",
+		"/C/Users/michele/Desktop/udemy/essaiExterneUdemy/onlinesTutoriel/buttonToggleCard/index.html",
+		"/C/Users/michele/Desktop/udemy/essaiExterneUdemy/onlinesTutoriel/listItemRipple/style.css",
+		"/C/Users/michele/Desktop/udemy/essaiExterneUdemy/onlinesTutoriel/listItemRipple/index.html",
+		"/C/Users/michele/Desktop/udemy/cours jQuery/cours 7_ajax/demo.txt",
+		"/C/Users/michele/Desktop/udemy/cours jQuery/cours 7_ajax/index.html",
+		"/C/Users/michele/Desktop/udemy/cours jQuery/cours 6/style.css",
+		"/C/Users/michele/Desktop/udemy/cours jQuery/cours 6/index.html",
+		"/C/Users/michele/Desktop/udemy/cours jQuery/cours 5/style.css",
+		"/C/Users/michele/Desktop/udemy/cours jQuery/cours 5/index.html",
+		"/C/Users/michele/Desktop/udemy/cours jQuery/cours 4/index.html",
+		"/C/Users/michele/Desktop/udemy/cours jQuery/cours 3/index.html",
+		"/C/Users/michele/Desktop/udemy/cours jQuery/cours 3/script.js",
+		"/C/Users/michele/Downloads/ai3f7o31_meta69170t.sql",
+		"/C/laragon/www/metachantiernaval/wp-config.php",
+		"/C/laragon/www/fichier.php",
+		"/C/laragon/www/metachantiernaval/metachantiernaval.sql",
+		"/D/sauvegardeMeta14_juillet/metachantiernaval/wp-content/themes/oceanwp_child/style.css",
+		"/C/Users/michele/index1.php",
+		"/C/Users/michele/Downloads/index.php",
+		"/D/sauvegardeMeta14_juillet/metachantiernavaltest_1.sql",
+		"/D/sauvegardeMeta14_juillet/metachantiernavaltest - Copie.sql",
+		"/C/laragon/www/auxsecours/wp-content/aiowps_backups/database-backup-20190707-175824-6jkilyug8m.sql",
+		"/D/sauvegardeMeta07Juillet19/metachantiernaval.sql",
+		"/D/sauvegardeMeta07Juillet19/copie37.sql",
+		"/D/sauvegardeMeta07Juillet19/copie_10.sql",
+		"/D/sauvegardeMeta07Juillet19/copie38.sql",
+		"/D/page404/style.css",
+		"/D/sauvegardeMeta07Juillet19/copie36.sql",
+		"/D/sauvegardeMeta07Juillet19/copie35.sql",
+		"/D/sauvegardeMeta07Juillet19/copie34.sql",
+		"/D/sauvegardeMeta07Juillet19/copie33.sql",
+		"/D/sauvegardeMeta07Juillet19/copie31.sql",
+		"/D/sauvegardeMeta07Juillet19/copie30.sql",
+		"/D/sauvegardeMeta07Juillet19/copie29.sql",
+		"/D/sauvegardeMeta07Juillet19/copie28.sql",
+		"/D/sauvegardeMeta07Juillet19/copie27.sql",
+		"/D/sauvegardeMeta07Juillet19/copie26.sql",
+		"/D/sauvegardeMeta07Juillet19/copie25.sql",
+		"/D/sauvegardeMeta07Juillet19/copie24.sql",
+		"/D/sauvegardeMeta07Juillet19/copie23.sql",
+		"/D/sauvegardeMeta07Juillet19/copie_22.sql",
+		"/D/sauvegardeMeta07Juillet19/copie_21.sql",
+		"/D/sauvegardeMeta07Juillet19/copie_20.sql",
+		"/D/sauvegardeMeta07Juillet19/copie_19.sql",
+		"/D/sauvegardeMeta07Juillet19/copie_18.sql",
+		"/D/sauvegardeMeta07Juillet19/copie_16.sql",
+		"/D/sauvegardeMeta07Juillet19/copie_15.sql",
+		"/D/sauvegardeMeta07Juillet19/copie_14.sql",
+		"/D/sauvegardeMeta07Juillet19/copie_11.sql",
+		"/D/sauvegardeMeta07Juillet19/copie_13.sql",
+		"/D/sauvegardeMeta07Juillet19/copie_10_bis_2.sql",
+		"/D/sauvegardeMeta07Juillet19/copie_10_bis.sql",
+		"/D/sauvegardeMeta07Juillet19/copie_9.sql",
+		"/C/Users/michele/Desktop/wp_29_04_2019/phpmyadmin - Copie.conf",
+		"/D/sauvegardeMeta07Juillet19/metachantiernaval_1.sql",
+		"/D/sauvegardeMeta07Juillet19/copie1.sql",
+		"/D/sauvegardeMeta07Juillet19/copie2.sql",
+		"/C/Users/michele/Desktop/wp_29_04_2019/bateaux1.sql"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"atchoum",
+			"localhost",
+			"localhost/wordpress",
+			"localhost/",
+			"localhost",
+			"localhost/wordpress",
+			"localhost",
+			"http://metachantiernavaltest",
+			"http://metachantiernavaltest.test",
+			"(15598"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"atchoum1",
+			"www.meta-chantier-naval.fr",
+			"www.meta-chantier-naval.fr/web"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
